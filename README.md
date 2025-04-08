@@ -1,3 +1,5 @@
+# Milestone 2
+
 # FlavourAI: Personalized Dish Recommendation System
 
 A Data-Driven Approach to Recipe Discovery and Nutritional Insights
